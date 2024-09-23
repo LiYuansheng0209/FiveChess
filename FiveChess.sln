@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2022
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gobang_FiveChess", "Gobang_FiveChess\Gobang_FiveChess.vcxproj", "{DB7411AF-0208-4C46-862C-A4A65E2DBF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7411AF-0208-4C46-862C-A4A65E2DBF96}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB7411AF-0208-4C46-862C-A4A65E2DBF96}.Debug|Win32.Build.0 = Debug|Win32
+		{DB7411AF-0208-4C46-862C-A4A65E2DBF96}.Release|Win32.ActiveCfg = Release|Win32
+		{DB7411AF-0208-4C46-862C-A4A65E2DBF96}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
